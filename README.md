@@ -1,7 +1,7 @@
 Setup and Installation
 1. Clone the repo
-   git clone <repository-url>
-   cd FASTAPI
+   git clone -b dev https://github.com/kharmandeep/fastapi.git
+   cd fastapi
 2. Install dependencies
    pip install -r requirements.txt
 3. Set up environment variables.

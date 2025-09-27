@@ -23,6 +23,7 @@ Usage
 
 FOLDER STRUCTURE
 
+```
 FASTAPI/
 ├── api/
 │   ├── __init__.py
@@ -34,3 +35,4 @@ FASTAPI/
 ├── main.py               # FastAPI app entry point
 ├── requirements.txt      # Python dependencies
 └── README.md            # This file
+```
